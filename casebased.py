@@ -1,7 +1,7 @@
 '''import file dan cek file'''
 import pandas as pd
 import matplotlib.pyplot as plt
-file = pd.read_csv('Documents/audit_risk.csv')
+file = pd.read_csv('Documents/audit_risk.csv')   #karena pada saat saya membuat program ini di linux, maka untuk direktorinya bisa disesuaikan seperti (./audit_risk.csv)
 #print(file.head())
 #print(file)
 
